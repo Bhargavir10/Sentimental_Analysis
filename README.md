@@ -1,2 +1,2 @@
 # Sentimental_Analysis
-By using ML techinques
+By using ML techinques in google colab
